@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hellosultan
-- 👀 I’m interested in learning data science
-- 🌱 I’m currently learning Data Science Foundations (Code Academy and Linkedin Learning)
+- 👀 I’m interested to become expert in Data Science 
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me @hellosultan
 - 😄 Pronouns: they/them/their
