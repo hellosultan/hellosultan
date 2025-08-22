@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hellosultan
+- 👋 Hi, I’m Sultan
 - 👀 I’m interested to become expert in Data Science 
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me in Linkedin (hellosultan)
